@@ -1,3 +1,4 @@
+#We can use this script in HTML code to make our chatbot working
 <script>
   window.watsonAssistantChatOptions = {
     integrationID: "c1626c09-3e98-48d4-abc9-fdc6dee23e8a", // The ID of this integration.
