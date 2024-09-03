@@ -1,4 +1,8 @@
 ***Energy Saver Chat Bot***
+
+**1. Project Overview:**
+   - The Energy Saver chatbot, developed using Watsonx Assistant, is designed to help users optimize their energy usage, reduce costs, and promote clean energy practices.
+     
 ### Here is the screenshots of Chat Bot
 ![Screenshot (46)](https://github.com/user-attachments/assets/f95414f5-0bf9-4b58-8dc4-6d01ce597942)
 ![Screenshot (47)](https://github.com/user-attachments/assets/ee561c16-c97d-49ca-904a-29cf4497d3b0)
@@ -7,10 +11,6 @@
 ![Screenshot (50)](https://github.com/user-attachments/assets/af08635a-6118-4bd9-aa76-28e29162f342)
 ![Screenshot (51)](https://github.com/user-attachments/assets/a969b3e3-44a5-43d9-a07b-eccd3671e77f)
 ![Screenshot (52)](https://github.com/user-attachments/assets/716ab8f4-d690-4e6e-bdf8-559aa86f50f1)
-
-
-**1. Project Overview:**
-   - The Energy Saver chatbot, developed using Watsonx Assistant, is designed to help users optimize their energy usage, reduce costs, and promote clean energy practices.
 
 **2. Objectives:**
    - Provide personalized energy-saving recommendations.
