@@ -1,5 +1,7 @@
 ***Energy Saver Chat Bot***
 
+Link:https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Fus-south.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-8d56a051-9f5f-4e90-a166-2bc8902509ac%3A%3Aaa889ee2-751f-4987-b0d0-62ccd95e86ec&integrationID=c1626c09-3e98-48d4-abc9-fdc6dee23e8a&region=us-south&serviceInstanceID=8d56a051-9f5f-4e90-a166-2bc8902509ac
+
 **1. Project Overview:**
    - The Energy Saver chatbot, developed using Watsonx Assistant, is designed to help users optimize their energy usage, reduce costs, and promote clean energy practices.
      
